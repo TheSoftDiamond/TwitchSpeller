@@ -11,7 +11,8 @@ Due to how twitch rate limits, words that have the same letter as before may get
 To setup the code, you will need Python. The recommended version is Python 3.12.
 
 Once that is done, you will need to run the following command to finish setup.
-`pip install -r requirements.txt`
+
+```pip install -r requirements.txt```
 
 # Running the code
 
